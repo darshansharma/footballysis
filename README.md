@@ -9,20 +9,20 @@ I will use Supervised learning method of machine learning to predict the perform
 Machine learning is the ability of machine to learn a thing without being explictly programmed. Or
 If a machine has a experience E and performance P for some list of tasks T then machine learning is defined as if the performance P for some tasks T increases with experirce E.
 
-Machine learning --> Supervised learningg
+Machine learning --> Supervised learning  
 		 --> Unsupervised learning
 
 ### WHAT IS SUPERVISED LEARNING ###
 Supervised learning is the form of machine learning in which we give machine some sort of data and based on the pattern that machine founds on that data we will predict what we want related to that data. To predict the performance of player in today's match we will give machine some data and in this case that will be performances of players in past few matches.
 
-Supervised learning --> Regression model
+Supervised learning --> Regression model  
 		    --> Classification model
 
 Now I will not dig that much deeper. Directly saying, we will use regression model of supervised learning to predict performance of players.
 
 Now I think this much is sufficient for theory part and now let's jump to implementation. 
 
-To need past data of players we will use ##### pyfootball ##### library #####in python.
+To need past data of players we will use ##### pyfootball library #####in python.
 
 
 
