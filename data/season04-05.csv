@@ -1,0 +1,381 @@
+HomeTeam,AwayTeam,FTHG,FTAG
+Aston Villa,Southampton,2,0
+Blackburn,West Brom,1,1
+Bolton,Charlton,4,1
+Man City,Fulham,1,1
+Middlesbrough,Newcastle,2,2
+Norwich,Crystal Palace,1,1
+Portsmouth,Birmingham,1,1
+Tottenham,Liverpool,1,1
+Chelsea,Man United,1,0
+Everton,Arsenal,1,4
+Birmingham,Chelsea,0,1
+Charlton,Portsmouth,2,1
+Crystal Palace,Everton,1,3
+Fulham,Bolton,2,0
+Liverpool,Man City,2,1
+Man United,Norwich,2,1
+Newcastle,Tottenham,0,1
+Southampton,Blackburn,3,2
+Arsenal,Middlesbrough,5,3
+West Brom,Aston Villa,1,1
+Birmingham,Man City,1,0
+Crystal Palace,Chelsea,0,2
+Arsenal,Blackburn,3,0
+Charlton,Aston Villa,3,0
+Fulham,Middlesbrough,0,2
+Newcastle,Norwich,2,2
+Southampton,Bolton,1,2
+West Brom,Tottenham,1,1
+Aston Villa,Newcastle,4,2
+Blackburn,Man United,1,1
+Chelsea,Southampton,2,1
+Everton,West Brom,2,1
+Man City,Charlton,4,0
+Middlesbrough,Crystal Palace,2,1
+Norwich,Arsenal,1,4
+Tottenham,Birmingham,1,0
+Bolton,Liverpool,1,0
+Man United,Everton,0,0
+Portsmouth,Fulham,4,3
+Aston Villa,Chelsea,0,0
+Bolton,Man United,2,2
+Fulham,Arsenal,0,3
+Liverpool,West Brom,3,0
+Man City,Everton,0,1
+Middlesbrough,Birmingham,2,1
+Newcastle,Blackburn,3,0
+Portsmouth,Crystal Palace,3,1
+Tottenham,Norwich,0,0
+Charlton,Southampton,0,0
+Arsenal,Bolton,2,2
+Birmingham,Charlton,1,1
+Blackburn,Portsmouth,1,0
+Crystal Palace,Man City,1,2
+Norwich,Aston Villa,0,0
+West Brom,Fulham,1,1
+Chelsea,Tottenham,0,0
+Everton,Middlesbrough,1,0
+Southampton,Newcastle,1,2
+Man United,Liverpool,2,1
+Aston Villa,Crystal Palace,1,1
+Bolton,Birmingham,1,1
+Fulham,Southampton,1,0
+Liverpool,Norwich,3,0
+Man City,Arsenal,0,1
+Middlesbrough,Chelsea,0,1
+Newcastle,West Brom,3,1
+Tottenham,Man United,0,1
+Portsmouth,Everton,0,1
+Charlton,Blackburn,1,0
+Arsenal,Charlton,4,0
+Blackburn,Aston Villa,2,2
+Everton,Tottenham,0,1
+Norwich,Portsmouth,2,2
+Southampton,Man City,0,0
+West Brom,Bolton,2,1
+Birmingham,Newcastle,2,2
+Chelsea,Liverpool,1,0
+Man United,Middlesbrough,1,1
+Crystal Palace,Fulham,2,0
+Arsenal,Aston Villa,3,1
+Birmingham,Man United,0,0
+Blackburn,Middlesbrough,0,4
+Bolton,Crystal Palace,1,0
+Everton,Southampton,1,0
+Fulham,Liverpool,2,4
+Man City,Chelsea,1,0
+West Brom,Norwich,0,0
+Charlton,Newcastle,1,1
+Portsmouth,Tottenham,1,0
+Aston Villa,Fulham,2,0
+Chelsea,Blackburn,4,0
+Crystal Palace,West Brom,3,0
+Liverpool,Charlton,2,0
+Norwich,Everton,2,3
+Tottenham,Bolton,1,2
+Man United,Arsenal,2,0
+Middlesbrough,Portsmouth,1,1
+Newcastle,Man City,4,3
+Southampton,Birmingham,0,0
+Arsenal,Southampton,2,2
+Birmingham,Crystal Palace,0,1
+Blackburn,Liverpool,2,2
+Charlton,Middlesbrough,1,2
+Everton,Aston Villa,1,1
+Fulham,Tottenham,2,0
+Portsmouth,Man United,2,0
+West Brom,Chelsea,1,4
+Bolton,Newcastle,2,1
+Man City,Norwich,1,1
+Aston Villa,Portsmouth,3,0
+Chelsea,Everton,1,0
+Crystal Palace,Arsenal,1,1
+Liverpool,Birmingham,0,1
+Norwich,Blackburn,1,1
+Southampton,West Brom,2,2
+Tottenham,Charlton,2,3
+Man United,Man City,0,0
+Middlesbrough,Bolton,1,1
+Newcastle,Fulham,1,4
+Birmingham,Everton,0,1
+Bolton,Aston Villa,1,2
+Charlton,Norwich,4,0
+Fulham,Chelsea,1,4
+Liverpool,Crystal Palace,3,2
+Man City,Blackburn,1,1
+Southampton,Portsmouth,2,1
+Tottenham,Arsenal,4,5
+Newcastle,Man United,1,3
+West Brom,Middlesbrough,1,2
+Arsenal,West Brom,1,1
+Chelsea,Bolton,2,2
+Crystal Palace,Newcastle,0,2
+Everton,Fulham,1,0
+Man United,Charlton,2,0
+Middlesbrough,Liverpool,2,0
+Norwich,Southampton,2,1
+Portsmouth,Man City,1,3
+Blackburn,Birmingham,3,3
+Aston Villa,Tottenham,1,0
+Birmingham,Norwich,1,1
+Bolton,Portsmouth,0,1
+Charlton,Chelsea,0,4
+Fulham,Blackburn,0,2
+Man City,Aston Villa,2,0
+Southampton,Crystal Palace,2,2
+West Brom,Man United,0,3
+Liverpool,Arsenal,2,1
+Newcastle,Everton,1,1
+Tottenham,Middlesbrough,2,0
+Arsenal,Birmingham,3,0
+Aston Villa,Liverpool,1,1
+Blackburn,Tottenham,0,1
+Chelsea,Newcastle,4,0
+Everton,Bolton,3,2
+Man United,Southampton,3,0
+Norwich,Fulham,0,1
+Portsmouth,West Brom,3,2
+Crystal Palace,Charlton,0,1
+Middlesbrough,Man City,3,2
+Crystal Palace,Blackburn,0,0
+Everton,Liverpool,1,0
+Man City,Tottenham,0,1
+Newcastle,Portsmouth,1,1
+Norwich,Bolton,3,2
+Southampton,Middlesbrough,2,2
+West Brom,Charlton,0,1
+Arsenal,Chelsea,2,2
+Aston Villa,Birmingham,1,2
+Fulham,Man United,1,1
+Liverpool,Portsmouth,1,1
+Birmingham,West Brom,4,0
+Blackburn,Everton,0,0
+Bolton,Man City,0,1
+Chelsea,Norwich,4,0
+Man United,Crystal Palace,5,2
+Middlesbrough,Aston Villa,3,0
+Tottenham,Southampton,5,1
+Liverpool,Newcastle,3,1
+Portsmouth,Arsenal,0,1
+Charlton,Fulham,2,1
+Arsenal,Fulham,2,0
+Birmingham,Middlesbrough,2,0
+Blackburn,Newcastle,2,2
+Chelsea,Aston Villa,1,0
+Crystal Palace,Portsmouth,0,1
+Everton,Man City,2,1
+Man United,Bolton,2,0
+Norwich,Tottenham,0,2
+Southampton,Charlton,0,0
+West Brom,Liverpool,0,5
+Aston Villa,Man United,0,1
+Bolton,Blackburn,0,1
+Charlton,Everton,2,0
+Fulham,Birmingham,2,3
+Liverpool,Southampton,1,0
+Man City,West Brom,1,1
+Middlesbrough,Norwich,2,0
+Portsmouth,Chelsea,0,2
+Tottenham,Crystal Palace,1,1
+Newcastle,Arsenal,0,1
+Aston Villa,Blackburn,1,0
+Bolton,West Brom,1,1
+Charlton,Arsenal,1,3
+Fulham,Crystal Palace,3,1
+Liverpool,Chelsea,0,1
+Man City,Southampton,2,1
+Middlesbrough,Man United,0,2
+Newcastle,Birmingham,2,1
+Portsmouth,Norwich,1,1
+Tottenham,Everton,5,2
+Blackburn,Charlton,1,0
+Crystal Palace,Aston Villa,2,0
+Norwich,Liverpool,1,2
+West Brom,Newcastle,0,0
+Arsenal,Man City,1,1
+Birmingham,Bolton,1,2
+Chelsea,Middlesbrough,2,0
+Everton,Portsmouth,2,1
+Man United,Tottenham,0,0
+Southampton,Fulham,3,3
+Aston Villa,Norwich,3,0
+Bolton,Arsenal,1,0
+Charlton,Birmingham,3,1
+Liverpool,Man United,0,1
+Man City,Crystal Palace,3,1
+Newcastle,Southampton,2,1
+Portsmouth,Blackburn,0,1
+Tottenham,Chelsea,0,2
+Fulham,West Brom,1,0
+Middlesbrough,Everton,1,1
+Birmingham,Fulham,1,2
+Chelsea,Portsmouth,3,0
+Crystal Palace,Tottenham,3,0
+Everton,Charlton,0,1
+Man United,Aston Villa,3,1
+Norwich,Middlesbrough,4,4
+Southampton,Liverpool,2,0
+West Brom,Man City,2,0
+Arsenal,Newcastle,1,0
+Blackburn,Bolton,0,1
+Arsenal,Man United,2,4
+Bolton,Tottenham,3,1
+Charlton,Liverpool,1,2
+Portsmouth,Middlesbrough,2,1
+West Brom,Crystal Palace,2,2
+Birmingham,Southampton,2,1
+Blackburn,Chelsea,0,1
+Everton,Norwich,1,0
+Fulham,Aston Villa,1,1
+Man City,Newcastle,1,1
+Aston Villa,Arsenal,1,3
+Crystal Palace,Bolton,0,1
+Liverpool,Fulham,3,1
+Man United,Birmingham,2,0
+Middlesbrough,Blackburn,1,0
+Newcastle,Charlton,1,1
+Norwich,West Brom,3,2
+Tottenham,Portsmouth,3,1
+Chelsea,Man City,0,0
+Southampton,Everton,2,2
+Birmingham,Liverpool,2,0
+Blackburn,Norwich,3,0
+Bolton,Middlesbrough,0,0
+Everton,Chelsea,0,1
+Portsmouth,Aston Villa,1,2
+Man City,Man United,0,2
+Arsenal,Crystal Palace,5,1
+West Brom,Southampton,0,0
+Aston Villa,Everton,1,3
+Crystal Palace,Birmingham,2,0
+Man United,Portsmouth,2,1
+Southampton,Arsenal,1,1
+Tottenham,Fulham,2,0
+Middlesbrough,Charlton,2,2
+Newcastle,Bolton,2,1
+Norwich,Man City,2,3
+Arsenal,Portsmouth,3,0
+Aston Villa,Middlesbrough,2,0
+Crystal Palace,Man United,0,0
+Fulham,Charlton,0,0
+Newcastle,Liverpool,1,0
+Norwich,Chelsea,1,3
+Southampton,Tottenham,1,0
+Everton,Blackburn,0,1
+West Brom,Birmingham,2,0
+Man City,Bolton,0,1
+Chelsea,West Brom,1,0
+Charlton,Tottenham,2,0
+Liverpool,Blackburn,0,0
+Blackburn,Arsenal,0,1
+Bolton,Norwich,1,0
+Charlton,West Brom,1,4
+Chelsea,Crystal Palace,4,1
+Man United,Fulham,1,0
+Portsmouth,Newcastle,1,1
+Tottenham,Man City,2,1
+Birmingham,Aston Villa,2,0
+Liverpool,Everton,2,1
+Middlesbrough,Southampton,1,3
+Arsenal,Norwich,4,1
+Birmingham,Tottenham,1,1
+Charlton,Man City,2,2
+Crystal Palace,Middlesbrough,0,1
+Liverpool,Bolton,1,0
+Man United,Blackburn,0,0
+Newcastle,Aston Villa,0,3
+Southampton,Chelsea,1,3
+Fulham,Portsmouth,3,1
+West Brom,Everton,1,0
+Blackburn,Southampton,3,0
+Bolton,Fulham,3,1
+Chelsea,Birmingham,1,1
+Man City,Liverpool,1,0
+Middlesbrough,Arsenal,0,1
+Norwich,Man United,2,0
+Portsmouth,Charlton,4,2
+Aston Villa,West Brom,1,1
+Everton,Crystal Palace,4,0
+Tottenham,Newcastle,1,0
+Birmingham,Portsmouth,0,0
+Charlton,Bolton,1,2
+Crystal Palace,Norwich,3,3
+Fulham,Man City,1,1
+Liverpool,Tottenham,2,2
+Southampton,Aston Villa,2,3
+Bolton,Southampton,1,1
+Middlesbrough,Fulham,1,1
+Aston Villa,Charlton,0,0
+Blackburn,Crystal Palace,1,0
+Chelsea,Arsenal,0,0
+Everton,Man United,1,0
+Man City,Birmingham,3,0
+Norwich,Newcastle,2,1
+Portsmouth,Liverpool,1,2
+Tottenham,West Brom,1,1
+Aston Villa,Bolton,1,1
+Blackburn,Man City,0,0
+Chelsea,Fulham,3,1
+Crystal Palace,Liverpool,1,0
+Everton,Birmingham,1,1
+Middlesbrough,West Brom,4,0
+Norwich,Charlton,1,0
+Man United,Newcastle,2,1
+Portsmouth,Southampton,4,1
+Arsenal,Tottenham,1,0
+West Brom,Blackburn,1,1
+Newcastle,Middlesbrough,0,0
+Birmingham,Blackburn,2,1
+Bolton,Chelsea,0,2
+Fulham,Everton,2,0
+Liverpool,Middlesbrough,1,1
+Man City,Portsmouth,2,0
+Newcastle,Crystal Palace,0,0
+Southampton,Norwich,4,3
+Charlton,Man United,0,4
+Tottenham,Aston Villa,5,1
+West Brom,Arsenal,0,2
+Fulham,Newcastle,1,3
+Aston Villa,Man City,1,2
+Blackburn,Fulham,1,3
+Chelsea,Charlton,1,0
+Crystal Palace,Southampton,2,2
+Everton,Newcastle,2,0
+Man United,West Brom,1,1
+Middlesbrough,Tottenham,1,0
+Norwich,Birmingham,1,0
+Portsmouth,Bolton,1,1
+Arsenal,Liverpool,3,1
+Man United,Chelsea,1,3
+Arsenal,Everton,7,0
+Birmingham,Arsenal,2,1
+Bolton,Everton,3,2
+Charlton,Crystal Palace,2,2
+Fulham,Norwich,6,0
+Liverpool,Aston Villa,2,1
+Man City,Middlesbrough,1,1
+Newcastle,Chelsea,1,1
+Southampton,Man United,1,2
+Tottenham,Blackburn,0,0
+West Brom,Portsmouth,2,0
